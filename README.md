@@ -15,6 +15,8 @@ This section currently includes the following images:
 </ul>
 This section is flexible, allowing the artist to submit more demonstrations of their work in future.
 
+A contact section that links the artist's social profiles (currently links to main pages of social media sites for exemplary purposes).
+
 
 Site was originally authored in Replit and utlimately moved to Github where subsequent edits were made.
 Site can be viewed at https://jwhitmore65.github.io/jwhitmore65-pete-port/
