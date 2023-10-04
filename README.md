@@ -1,4 +1,4 @@
-# jwhitmore65-pete-port.github.io
+# jwhitmore65-pete-port
 
 Artist's portfolio created for Pete Thinkful, 2023
 Contents include:
