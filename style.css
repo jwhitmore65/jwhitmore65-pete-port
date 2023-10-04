@@ -57,6 +57,11 @@ p {
   line-height: 1.5;
 }
 
+.p-center {
+  text-align: center;
+  width: auto;
+}
+
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
