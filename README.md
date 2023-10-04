@@ -8,9 +8,11 @@ This section includes an image of the artist: pete-thinkful.png
 
 A portfolio section that displays several works created by the artist.
 This section currently includes the following images:
-  abstract-red.png
-  spiral-zany.png
-  melted-rainbow.png
+<ul>
+  <li>abstract-red.png</li>
+  <li>spiral-zany.png</li>
+  <li>melted-rainbow.png</li>
+</ul>
 This section is flexible, allowing the artist to submit more demonstrations of their work in future.
 
 
